@@ -29,4 +29,5 @@ Repetição: Após o término da rega, o programa volta ao início do loop e con
 Considerações Finais:
 Este projeto de Arduino oferece uma solução automatizada e eficiente para o controle da irrigação em um jardim ou horta. Com o monitoramento contínuo da umidade do solo, é possível economizar água e garantir que as plantas recebam a quantidade adequada de água para um crescimento saudável.
 
-link da simulação: https://www.tinkercad.com/things/3ARmPSjUVx3
+Link da simulação: https://www.tinkercad.com/things/3ARmPSjUVx3
+Link do video: https://www.youtube.com/watch?v=tT9th6QDFn4
