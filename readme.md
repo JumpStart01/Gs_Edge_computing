@@ -1,3 +1,14 @@
+RM e participantes
+RM550193 - Pedro Henrique Guerra Neves
+
+RM98607 - Lucas Vassão Braga
+
+RM550986 - Vinicius Monteiro Pina
+
+RM550702 - Enzo Vasconcelos de Oliveira Santos
+
+
+
 Projeto de Arduino - Sistema de Irrigação Inteligente
 Este projeto utiliza a plataforma Arduino para criar um sistema de irrigação inteligente, que monitora a umidade do solo e realiza a rega automaticamente quando necessário. O sistema é capaz de controlar uma válvula de irrigação e um motor CC para ativar a rega quando a umidade do solo está abaixo de um determinado limiar.
 
